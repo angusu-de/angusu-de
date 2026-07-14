@@ -1,3 +1,5 @@
+<!-- profile-surface: public-command-deck -->
+
 <p align="center">
   <a href="https://angusu.de">
     <img width="100%" src="./assets/command-deck.svg" alt="ANGUSU.DE — The Public Lab. Observe, build, release, repeat." />
